@@ -71,7 +71,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-
-Pratishtha - [Your Email/LinkedIn Here]
-
 Project Link: [https://github.com/Pratishtha-348/ChatPDF](https://github.com/Pratishtha-348/ChatPDF)
+
